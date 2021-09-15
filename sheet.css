@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar-nav{
+    margin-left: 50rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+.navbar-brand{
+    font-weight: bolder;
+    font-display: none;
+    margin-left: 2rem;
+    margin-bottom: 2px;
+}
+.nav-item a:active, a:hover{
+    color: greenyellow;
+    border-bottom: greenyellow;
+}
+p .card-text span .first{
+    align-items: center;
+    transform: translate(0,20rem);
+    font-size: 2rem;
+}

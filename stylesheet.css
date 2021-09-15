@@ -1,0 +1,19 @@
+
+footer{
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+    margin-top: 90rem;
+}
+.banner{
+    height: 800px;
+    width: 600;
+    margin-left: 8rem;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    align-content: center;
+    margin-top: 10%;
+    
+}
